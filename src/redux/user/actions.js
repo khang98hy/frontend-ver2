@@ -1,0 +1,12 @@
+const actions = {
+  SET_STATE: 'user/SET_STATE',
+  LOGIN: 'user/LOGIN',
+  REGISTER: 'user/REGISTER',
+  LOAD_CURRENT_ACCOUNT: 'user/LOAD_CURRENT_ACCOUNT',
+  LOGOUT: 'user/LOGOUT',
+  FORGOT_PASSWORD: 'user/FORGOT_PASSWORD',
+  RESET_PASSWORD: 'user/RESET_PASSWORD',
+  CHANGE_PASSWORD: 'user/CHANGE_PASSWORD',
+}
+
+export default actions

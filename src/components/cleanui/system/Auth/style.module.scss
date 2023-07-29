@@ -1,0 +1,18 @@
+@import 'components/mixins.scss';
+
+//////////////////////////////////////////////////////////////////////////////////////////
+/* AUTH */
+
+.container {
+  padding: rem(50) rem(30);
+}
+
+.button_ghost_primary {
+  background-color: #ffffff !important;
+}
+.button_ghost_primary:hover {
+  color: #ffffff !important;
+}
+.button_ghost_primary:focus {
+  color: #ffffff !important;
+}
